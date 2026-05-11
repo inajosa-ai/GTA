@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "home": "Home",
+    "games": "Games",
+    "maps": "Maps",
+    "radio": "Radio",
+    "protagonists": "Protagonists",
+    "quiz": "Quiz",
+    "gta6": "GTA VI News"
+  },
+  "home": {
+    "welcome": "Welcome to <1>Leonida</1>",
+    "explore": "Explore the Legacy",
+    "gta6_trailer": "Watch GTA VI Trailer",
+    "waiting": "The Wait Is <1>Ending</1>",
+    "waiting_desc": "The next chapter already has a date. Get ready to return to Vice City and discover the state of Leonida with the most realistic graphics in the franchise.",
+    "arrived": "THE FUTURE IS HERE",
+    "days": "days",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "essence_title": "The Franchise <1>Essence</1>",
+    "essence_desc": "Explore the visual legacy, unforgettable characters, and immersive regions that define Grand Theft Auto.",
+    "evolution": "Evolution",
+    "evolution_desc": "The visual identity that marked generations.",
+    "protagonists_title": "Protagonists",
+    "protagonists_desc": "The minds behind the chaos.",
+    "regions": "Regions",
+    "regions_desc": "The immersive worlds where the action happens."
+  },
+  "games": {
+    "title": "Criminal Legacy",
+    "desc": "Relive the stories that defined generations. Choose your destiny, rule the city and write your name in history.",
+    "official": "Official",
+    "release_year": "Release Year",
+    "city": "City",
+    "protagonists": "Protagonist(s)",
+    "platforms": "Platforms",
+    "important_details": "Important Details",
+    "missions": "missions",
+    "story": "The Story",
+    "curiosities": "Curiosities",
+    "gallery": "Image Gallery",
+    "view_art": "View Art",
+    "location": "Location",
+    "region": "Region",
+    "view_profile": "View Profile"
+  },
+  "games_data": {
+    "gta-1": {
+      "city": "Liberty City, San Andreas, Vice City",
+      "description": "Where it all started. The first Grand Theft Auto introduced the world to the top-down perspective, open-ended crime missions, and the chaos that would define one of the most iconic franchises in video game history.",
+      "story": "You take on the role of a criminal working for local gangs in the game's three main cities: Liberty City, San Andreas, and Vice City. There's no deep linear narrative, but rather a quest for points through crimes, car thefts, and paid missions to rise in the underworld.",
+      "curiosities": [
+        "It was originally conceived as a racing game called 'Race'n'Chase' where the player would control the police.",
+        "The three original cities (Liberty City, Vice City, San Andreas) would reappear as the franchise's biggest icons in 3D.",
+        "The freedom of the open map was accidental, arising from a bug in the AI."
+      ]
+    },
+    "gta-2": {
+      "city": "Anywhere City",
+      "description": "Elevating the chaos of the aerial view. GTA 2 is set in a retro-futuristic city and brought tactical innovations like the respect system with rival gangs.",
+      "story": "Claude Speed is introduced in Anywhere City, a dystopian metropolis divided by seven different gangs, including the Yakuza, Zaibatsu, and the Russian Mob. The player must gain or lose respect working for them to dominate the sectors.",
+      "curiosities": [
+        "It is the only mainline GTA to have a 'T' for Teen rating on the GBC (console versions were Mature).",
+        "There is an 8-minute live-action short film made to promote the game.",
+        "The gang respect system (working for one gang makes rivals hate you) was a revolution at the time."
+      ]
+    },
+    "gta-3": {
+      "city": "Liberty City",
+      "description": "The 3D revolution. GTA III changed the gaming industry forever with Liberty City in three dimensions, setting the modern standard for open-world games.",
+      "story": "Betrayed and left for dead by his crime partner Catalina during a heist, silent Claude seeks revenge in the ruthless underworld of Liberty City, working for Italian mafias, the Yakuza, and corrupt officials to get to his ex-partner.",
+      "curiosities": [
+        "Claude doesn't say a single word throughout the game. He is mute.",
+        "Released weeks after the September 11 attacks, undergoing changes such as the color of New York police cars.",
+        "The game broke several industry records for the time, popularizing the 3D sandbox genre."
+      ]
+    },
+    "gta-vice-city": {
+      "city": "Vice City",
+      "description": "Welcome to the 80s. Vice City delves into neon lights, catchy music, and the schemes of glamorous Florida, heavily inspired by Scarface and Miami Vice.",
+      "story": "Tommy Vercetti, a mafia hitman released from prison, is sent to Vice City. After a deal goes wrong, Tommy is left with nothing and begins a bloody climb in the criminal underworld to take power and become the city's emperor.",
+      "curiosities": [
+        "In the game, motorcycles and the ability to change clothes were major innovations in the franchise.",
+        "Ray Liotta voiced Tommy. It was the first time a GTA used Hollywood superstars.",
+        "Vice City completed its development in an impressive 9 months after GTA III."
+      ]
+    },
+    "gta-san-andreas": {
+      "city": "Los Santos, San Fierro, Las Venturas",
+      "description": "An entire state to explore. San Andreas introduced deep character customization, gang wars, territory wars, and a colossal map.",
+      "story": "Leaving his life away from home after his mother's murder, CJ returns to Los Santos. Immediately framed by corrupt cops for a homicide he didn't commit, CJ goes on an epic odyssey across the state to save his family.",
+      "curiosities": [
+        "The nutrition system allowed CJ to get fat or muscular depending on what he ate and workouts.",
+        "It is the best-selling PlayStation 2 game of all time.",
+        "Revolutionary map size, with deserts, mountains, and three massive capitals connected."
+      ]
+    },
+    "gta-iv": {
+      "city": "Liberty City",
+      "description": "A new high-definition era. What was a chaotic arcade became a dark, mature drama in a visceral, realistic take on New York.",
+      "story": "Lured by the 'American dream' his cousin Roman mentioned in letters, Eastern European war veteran Niko Bellic arrives in Liberty City. Instead of wealth, he finds loan sharks, mobsters, and the cruel reality of the city, being forced to relapse into violence.",
+      "curiosities": [
+        "The Euphoria physics engine revolutionized NPC reactions to shots, collisions, and stumbles procedurally.",
+        "The game was acclaimed for its dramatic story, receiving perfect scores in almost all reviews.",
+        "Roman Bellic and the recurring calls inviting Niko to bowling became the game's biggest meme."
+      ]
+    },
+    "gta-v": {
+      "city": "Los Santos & Blaine County",
+      "description": "Three interlinked criminals in a sun-drenched metropolis haunted by American entertainment satire. A resounding critical and commercial success.",
+      "story": "In the sunny melting pot of Los Santos, former bank robber Michael fakes his death; gangbanger Franklin seeks to move up in life; maniac Trevor builds an empire in the desert. Their paths collide for the biggest heists ever pulled, bumping heads with corrupt agencies.",
+      "curiosities": [
+        "GTA V is currently the second best-selling game in the world of all time.",
+        "Introduced the technology of instantly switching between three protagonists fluidly at any time.",
+        "The online component, GTA Online, created a continuous multi-billion dollar economy that runs to this day."
+      ]
+    },
+    "gta-vi": {
+      "city": "State of Leonida (including Vice City)",
+      "description": "The awaited evolution. Returning to the neon-soaked state of Leonida, with the streets immersed in the vivid swampland of the next chapter of Rockstar's open world.",
+      "story": "From what was officially disclosed, it will focus on a 'Bonnie and Clyde' style narrative in the hyper-connected world inspired by the crazy lifestyle of present-day Florida, with Lucia and her partner in a crime arc fueled by fast profit adrenaline.",
+      "curiosities": [
+        "The reveal trailer quickly broke absolute YouTube records, reaching over 93 million views in 24h.",
+        "The trailer song 'Love Is a Long Road' by Tom Petty had stream increases exceeding 36,000%.",
+        "It will be the first time the series features a playable female protagonist in the HD universe."
+      ]
+    }
+  },
+  "protagonists_data": {
+    "claude": {
+      "bio": "Silent and lethal. Claude is a man of no words but of intense action, betrayed by his ex-girlfriend Catalina and seeking revenge through the mafia underworld of Liberty City.",
+      "quote": "..."
+    },
+    "tommy": {
+      "bio": "A ruthless mobster released from prison after 15 years, ready to build his own empire in Miami's neon-lit 1980s aesthetic city.",
+      "quote": "You're gonna need a bigger gang."
+    },
+    "cj": {
+      "bio": "Drawn back to Los Santos after his mother's murder, Carl must take back control of the streets, save his family's gang, and uncover police corruption.",
+      "quote": "Ah shit, here we go again."
+    },
+    "niko": {
+      "bio": "An Eastern European immigrant haunted by his dark past in the war, arriving in Liberty City seeking the American Dream, only to be dragged back into a life of crime.",
+      "quote": "War is where the young and stupid are tricked by the old and bitter into killing each other."
+    },
+    "michael": {
+      "bio": "A retired bank robber in his 40s trapped in a chaotic family life, returning to crime for the adrenaline and to pay off an angry drug lord.",
+      "quote": "You forget a thousand things every day, pal. Make sure this is one of 'em."
+    },
+    "franklin": {
+      "bio": "A young, ambitious gangbanger looking to move up from repo jobs and petty street crime into the big leagues of high-stakes heists.",
+      "quote": "Look, bro. I need to make some paper."
+    },
+    "trevor": {
+      "bio": "Unpredictable, psychotic, and fiercely loyal. A former military pilot running a drug empire in Blaine County, prone to extreme outbursts of violence.",
+      "quote": "I'll swing by and sign the contracts, alright? Just ignore the bodies!"
+    },
+    "lucia": {
+      "bio": "The first female protagonist of the modern HD era. Recently released from prison, she partners with Jason in a Bonnie & Clyde-style crime spree across the state of Leonida.",
+      "quote": "Trust."
+    }
+  },
+  "maps": {
+    "title": "<1>Navigation</1> Systems",
+    "desc": "Select the radar and explore locations. Use the integrated zoom tools for detailed tactical reconnaissance."
+  },
+  "radio": {
+    "title": "Los Santos Frequencies",
+    "desc": "The beats that define the streets. Tune in and let the music guide you."
+  },
+  "protagonists": {
+    "title": "The Protagonists",
+    "desc": "Meet the brilliant and chaotic minds behind the biggest crimes in the Grand Theft Auto universe."
+  },
+  "quiz": {
+    "completed": "Challenge Completed!",
+    "veteran": "Are you really a veteran of the streets?",
+    "score": "Score",
+    "xp": "Total Exp",
+    "retry": "Try Again",
+    "level": "Level",
+    "global_xp": "Global XP",
+    "streak": "Combo",
+    "wanted_level": "Wanted Level",
+    "stars_1": "Star",
+    "stars_many": "Stars",
+    "questions": [
+      { "text": "What is the name of the fictional city based on Miami?", "options": ["Liberty City", "San Andreas", "Vice City", "Los Santos"] },
+      { "text": "In GTA V, who is the protagonist with the special ability to slow down time while driving?", "options": ["Trevor", "Michael", "Franklin", "Lamar"] },
+      { "text": "Which gang predominantly wears green clothing in San Andreas?", "options": ["Ballas", "Vagos", "Grove Street Families", "Aztecas"] },
+      { "text": "In what year does the story of Grand Theft Auto: Vice City take place?", "options": ["1984", "1986", "1992", "2001"] },
+      { "text": "What was Lazlow Jones's profession in the GTA universe?", "options": ["Police Officer", "Politician", "Radio/TV Host", "Mechanic"] },
+      { "text": "What is the name of the creator of the Epsilon Program cult?", "options": ["Cris Formage", "Jock Cranley", "Donald Love", "Fernando Martinez"] },
+      { "text": "In GTA III, what is the name of the music video played on Lips 106 by Love Fist?", "options": ["Fist Fury", "Dangerous Bastard", "Little Box", "Smash It"] },
+      { "text": "What is the signature meal on the Cluckin' Bell sign in San Andreas?", "options": ["Fowl Burger", "Cluckin' Huge Meal", "Foul Fowl", "Chicken Wings"] },
+      { "text": "What is the name of Niko Bellic's cousin in GTA IV?", "options": ["Dimitri", "Roman", "Brucie", "Florian"] },
+      { "text": "In GTA V, who is Michael De Santa's psychiatrist?", "options": ["Dr. Friedlander", "Dr. Ray De Angelo", "Dr. K", "Dr. Mount"] }
+    ]
+  },
+  "gta6": {
+    "title": "Project Americas",
+    "desc": "Compilation of intelligence, historic leaks, and confirmed data on Grand Theft Auto VI.",
+    "trailer_title": "Trailer 1",
+    "trailer_desc": "The trailer introduced the state of Leonida, protagonist Lucia, and the social media-saturated culture of the HD universe. Tom Petty's theme song \"Love Is A Long Road\" set the tone.",
+    "confidential": "// Confidential File. Restricted Access.",
+    "confirmed_records": "Confirmed Records",
+    "intel": [
+      { "subject": "Development", "detail": "Likely started in 2014, codenamed \"Project Americas\"." },
+      { "subject": "Location", "detail": "State of Leonida, containing Vice City and swampy areas (Everglades)." },
+      { "subject": "Protagonists", "detail": "Lucia and Jason. Focus on a Bonnie and Clyde style narrative." },
+      { "subject": "Open World", "detail": "Rumors suggest buildings will have much more accessible interiors." },
+      { "subject": "Technology", "detail": "New version of the RAGE engine. Advanced water and weather simulation." },
+      { "subject": "Leaks", "detail": "September 2022: 90+ leaked alpha videos, confirming protagonists and early scope." }
+    ],
+    "social_analysis": "Social Media Analysis",
+    "trailer_engagement": "Trailer Engagement",
+    "engagement_detail": "views in 24h",
+    "revenue_forecast": "Revenue Forecast",
+    "revenue_detail": "in the first week",
+    "dev_status": "Development Status",
+    "dev_status_value": "In Final Polish",
+    "dev_status_detail": "Estimate based on Take-Two's financial report.",
+    "threat_level": "Threat Level: Critical"
+  }
+}
