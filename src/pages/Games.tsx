@@ -45,18 +45,9 @@ export default function Games() {
                   style={{ backgroundColor: game.color }}
                 />
                 
-                {/* Replaced Text Title with Real Logo Image */}
-                {game.logo.startsWith('/') ? (
-                   <img 
-                      src={game.logo} 
-                      alt={game.title} 
-                      className="h-16 object-contain mb-2 drop-shadow-[0_4px_8px_rgba(0,0,0,0.8)] filter brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity"
-                   />
-                ) : (
-                   <h2 className="font-display font-bold text-3xl text-white mb-2 uppercase leading-none drop-shadow-md">
-                     {game.logo || game.title}
-                   </h2>
-                )}
+                <h2 className="font-display font-bold text-3xl text-white mb-2 uppercase leading-none drop-shadow-md">
+                  {game.title}
+                </h2>
                 
                 <p className="text-white/70 text-sm line-clamp-2 md:opacity-0 md:-translate-y-4 transition-all duration-300 group-hover:opacity-100 group-hover:translate-y-0 w-full">
                   {t(`games_data.${game.id}.description`, { defaultValue: game.description })}
