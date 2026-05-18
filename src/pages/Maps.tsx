@@ -5,11 +5,11 @@ import { cn } from '@/lib/utils';
 import { useTranslation, Trans } from 'react-i18next';
 
 const mapsData = [
-  { id: 'leonida', name: 'Leonida / Vice City', type: 'GTA VI', color: '#ff007f', image: '/maps/leonida.jpg' },
-  { id: 'ls', name: 'Los Santos & Blaine County', type: 'GTA V', color: '#5f914d', image: '/maps/ls.jpg' },
-  { id: 'sa', name: 'San Andreas', type: 'GTA SA', color: '#e6b053', image: '/maps/sa.jpg' },
-  { id: 'vc', name: 'Vice City Classic', type: 'GTA VC', color: '#ff00a0', image: '/maps/vc.jpg' },
-  { id: 'lc', name: 'Liberty City', type: 'GTA IV', color: '#6b7280', image: '/maps/lc.jpg' },
+  { id: 'leonida', name: 'Leonida / Vice City', type: 'GTA VI', color: '#ff007f', image: '/maps/leonida.png' },
+  { id: 'ls', name: 'Los Santos & Blaine County', type: 'GTA V', color: '#5f914d', image: '/maps/ls.png' },
+  { id: 'sa', name: 'San Andreas', type: 'GTA SA', color: '#e6b053', image: '/maps/sa.png' },
+  { id: 'vc', name: 'Vice City Classic', type: 'GTA VC', color: '#ff00a0', image: '/maps/vc.png' },
+  { id: 'lc', name: 'Liberty City', type: 'GTA IV', color: '#6b7280', image: '/maps/lc.png' },
 ];
 
 export default function Maps() {
