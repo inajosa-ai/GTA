@@ -142,9 +142,9 @@ export default function Home() {
               className="flex flex-col group"
             >
               <div className="w-full relative overflow-hidden rounded-xl shadow-[0_0_30px_rgba(255,0,127,0.1)] group-hover:shadow-[0_0_40px_rgba(255,0,127,0.2)] mb-6 border border-white/10 transition-all duration-500 bg-[#0a0a0a]">
-                <img 
-                  src="/logo.png" 
-                  alt={t('home.evolution')} 
+                <img
+                  src="/evolucao.png"
+                  alt={t('home.evolution')}
                   className="w-full h-auto object-cover transform transition-transform duration-700 group-hover:scale-105"
                 />
               </div>
@@ -164,9 +164,9 @@ export default function Home() {
               className="flex flex-col group"
             >
               <div className="w-full relative overflow-hidden rounded-xl shadow-[0_0_30px_rgba(255,127,0,0.1)] group-hover:shadow-[0_0_40px_rgba(255,127,0,0.2)] mb-6 border border-white/10 transition-all duration-500 bg-[#0a0a0a]">
-                <img 
-                  src="/protagonistas.png" 
-                  alt={t('home.protagonists_title')} 
+                <img
+                  src="/personagens.png"
+                  alt={t('home.protagonists_title')}
                   className="w-full h-auto object-cover transform transition-transform duration-700 group-hover:scale-105"
                 />
               </div>
@@ -186,9 +186,9 @@ export default function Home() {
               className="flex flex-col group"
             >
               <div className="w-full relative overflow-hidden rounded-xl shadow-[0_0_30px_rgba(0,127,255,0.1)] group-hover:shadow-[0_0_40px_rgba(0,127,255,0.2)] mb-6 border border-white/10 transition-all duration-500 bg-[#0a0a0a]">
-                <img 
-                  src="/mapas.png" 
-                  alt={t('home.regions')} 
+                <img
+                  src="/regiao.png"
+                  alt={t('home.regions')}
                   className="w-full h-auto object-cover transform transition-transform duration-700 group-hover:scale-105"
                 />
               </div>
